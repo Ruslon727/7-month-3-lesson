@@ -1,0 +1,7 @@
+export const usePath = {
+    organization: "/",
+    students: "/students",
+    admin: "/admin",
+    organizationAdd: "/organization/add",
+    organizationMore: "/:id"
+}
